@@ -1,0 +1,1394 @@
+canonical_identifier: bkk:krp/KR6s0019/v1
+canonical_location: https://kanripo.org/bkk/KR6s0019/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 翻譯名義集
+  identifiers:
+    alt_id:
+    - T54n2131
+  tags:
+    kr-categories: KR6s
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    tls-dates: dat04360
+  source:
+    repository: tls-texts
+    path: data/tls/KR6s0019.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR6s0019_001.yaml, hash: 'sha256:aff05abb15874a7f38f7192a869d948d13ec5928affb9cabd3aa83ed372ea13f'}
+  - {seq: 2, filename: KR6s0019_002.yaml, hash: 'sha256:edd71a48856ec6bf7ecc82b9bbbee4af250db6846aff11da33e18bccc4bd53dc'}
+  - {seq: 3, filename: KR6s0019_003.yaml, hash: 'sha256:264ba24bb052e137f34727772575dbc3594d0f1ea39f71fa1c5d7b6c974decaf'}
+  - {seq: 4, filename: KR6s0019_004.yaml, hash: 'sha256:1abce27e21fea84a1df42bcc50c49a9c90c75552b5c5d48c8e1a0492eac0c0ca'}
+  - {seq: 5, filename: KR6s0019_005.yaml, hash: 'sha256:3db94af0e5b1ad4d58fe8fa52a65c5feb0eae4e0f51d3b6b1090553ca76ad4ce'}
+  - {seq: 6, filename: KR6s0019_006.yaml, hash: 'sha256:689d104c6cf297d13f28498bc36512a3e7b89fc4b9b6f4a856d00e6e27356cd0'}
+  - {seq: 7, filename: KR6s0019_007.yaml, hash: 'sha256:bb36647000db5f190cca0e7d8487255e95adfc0baca717a52b5c98f49be8001a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0019_001.markers.yaml, hash: 'sha256:1946fa62da0be74f4dcbb43fc5e56ab1a591df2009731c40c1d685c591aa19c5'}
+  - {seq: 2, role: markers, filename: assets/KR6s0019_002.markers.yaml, hash: 'sha256:74ac4edfcb2dc3075d2fea79dd368842d906b57e314a9f8a6b6b1dae822eb3e7'}
+  - {seq: 3, role: markers, filename: assets/KR6s0019_003.markers.yaml, hash: 'sha256:e5cd2d82d098c2d18f5c50532f057767562b852aeb19a614334d746365dddaf4'}
+  - {seq: 4, role: markers, filename: assets/KR6s0019_004.markers.yaml, hash: 'sha256:f3dbe84a1b88e748c1aa2a14b30e3873b325ef1e81b6897ddaa71728b2d9d814'}
+  - {seq: 5, role: markers, filename: assets/KR6s0019_005.markers.yaml, hash: 'sha256:24f82a6ecaf579bf8b51f22a337d5bedcc7a0dc4df61634d8d234d53267734c2'}
+  - {seq: 6, role: markers, filename: assets/KR6s0019_006.markers.yaml, hash: 'sha256:7a346dd818e9e19baf6a6cd63ea9fc6343058bb419e368eabbd1300a06c9675b'}
+  - {seq: 7, role: markers, filename: assets/KR6s0019_007.markers.yaml, hash: 'sha256:9ba7f3f5e7250a760d2ffc7445f9116cbe0836573f8569f0d0446a53433de242'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1055a.4-h
+    span:
+    - front
+    - 0
+    - 573
+  label: 翻譯名義序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1055b.28-h
+    span:
+    - body
+    - 0
+    - 1561
+  label: 蘇州景德寺普潤大師行業記
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1561
+    - 1567
+  label: 十種通號第一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1567
+    - 1573
+  label: 諸佛別名第二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1573
+    - 1579
+  label: 通別三身第三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1579
+    - 1585
+  label: 釋尊別名第四
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1585
+    - 1591
+  label: 三乘通號第五
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1591
+    - 1597
+  label: 菩薩別名第六
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1597
+    - 1603
+  label: 度五比丘第七
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1603
+    - 1609
+  label: 十大弟子第八
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1609
+    - 1615
+  label: 總諸聲聞第九
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1615
+    - 1621
+  label: 宗釋論主第十
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1621
+    - 1628
+  label: 宗翻譯主第十一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 1628
+    - 1635
+  label: 七眾弟子第十二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1056c.5-h
+    span:
+    - body
+    - 1635
+    - 3157
+  label: 僧伽眾名第十三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1057c.32-h
+    span:
+    - body
+    - 3157
+    - 4517
+  label: 諸佛別名第二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1058c.46-h
+    span:
+    - body
+    - 4517
+    - 5862
+  label: 通別三身第三
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1059c.41-h
+    span:
+    - body
+    - 5862
+    - 6762
+  label: 釋尊姓字第四
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1060b.31-h
+    span:
+    - body
+    - 6762
+    - 8199
+  label: 三乘通號篇第五
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1061b.49-h
+    span:
+    - body
+    - 8199
+    - 10078
+  label: 菩薩別名篇第六
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1062c.46-h
+    span:
+    - body
+    - 10078
+    - 10438
+  label: 度五比丘篇第七
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1063a.46-h
+    span:
+    - body
+    - 10438
+    - 11898
+  label: 十大弟子篇第八
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1064a.68-h
+    span:
+    - body
+    - 11898
+    - 13613
+  label: 總諸聲聞篇第九
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1065b.71-h
+    span:
+    - body
+    - 13613
+    - 16387
+  label: 宗釋論主篇第十
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1067c.10-h
+    span:
+    - body
+    - 16387
+    - 22482
+  label: 宗翻譯主篇第十一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1072a.55-h
+    span:
+    - body
+    - 22482
+    - 24172
+  label: 七眾弟子篇第十二
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0019_T_001-1073b.24-h
+    span:
+    - body
+    - 24172
+    - 26753
+  label: 釋氏眾名篇第十三
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_001-1073b.24-h
+    span:
+    - body
+    - 0
+    - 18
+  label: 釋氏眾名篇第十三
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 18
+    - 23
+  label: 八部第十四
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 23
+    - 28
+  label: 四魔第十五
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 28
+    - 33
+  label: 仙趣第十六
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 33
+    - 38
+  label: 人倫第十七
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 38
+    - 43
+  label: 長者第十八
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 43
+    - 48
+  label: 外道第十九
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 48
+    - 53
+  label: 六師第二十
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 53
+    - 59
+  label: 鬼神第二十一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 59
+    - 65
+  label: 畜生第二十二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 65
+    - 71
+  label: 地獄第二十三
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1075b.1-h
+    span:
+    - body
+    - 71
+    - 6316
+  label: 時分第二十四
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1079c.46-h
+    span:
+    - body
+    - 6316
+    - 7328
+  label: 四魔篇第十五
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1080b.76-h
+    span:
+    - body
+    - 7328
+    - 8266
+  label: 趣篇第十六
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1081a.74-h
+    span:
+    - body
+    - 8266
+    - 11110
+  label: 人倫篇第十七
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1083b.18-h
+    span:
+    - body
+    - 11110
+    - 11911
+  label: 長者篇第十八
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1084a.5-h
+    span:
+    - body
+    - 11911
+    - 13165
+  label: 外道篇第十九
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1084c.80-h
+    span:
+    - body
+    - 13165
+    - 14034
+  label: 六師篇第二十
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1085b.69-h
+    span:
+    - body
+    - 14034
+    - 16411
+  label: 鬼神篇第二十一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1087b.51-h
+    span:
+    - body
+    - 16411
+    - 22175
+  label: 畜生篇第二十二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1091c.29-h
+    span:
+    - body
+    - 22175
+    - 23243
+  label: 地獄篇第二十三
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0019_T_002-1092b.69-h
+    span:
+    - body
+    - 23243
+    - 24844
+  label: 時分篇第二十四
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_002-1092b.69-h
+    span:
+    - body
+    - 0
+    - 18
+  label: 時分篇第二十四
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 18
+    - 24
+  label: 帝王第二十五
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 24
+    - 30
+  label: 皇后第二十六
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 30
+    - 36
+  label: 世界第二十七
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 36
+    - 42
+  label: 諸國第二十八
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 42
+    - 48
+  label: 眾山第二十九
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 48
+    - 53
+  label: 諸水第三十
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 53
+    - 59
+  label: 林木第三十一
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 59
+    - 65
+  label: 五果第三十二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 65
+    - 71
+  label: 百華第三十三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 71
+    - 77
+  label: 眾香第三十四
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 77
+    - 83
+  label: 七寶第三十五
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 83
+    - 89
+  label: 數量第三十六
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 89
+    - 95
+  label: 什物第三十七
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 95
+    - 101
+  label: 顯色第三十八
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 101
+    - 1893
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1095a.60-h
+    span:
+    - body
+    - 1893
+    - 2374
+  label: 皇后篇第二十六
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1095b.64-h
+    span:
+    - body
+    - 2374
+    - 3795
+  label: 世界篇第二十七
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1096b.69-h
+    span:
+    - body
+    - 3795
+    - 6579
+  label: 諸國篇第二十八
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1098c.11-h
+    span:
+    - body
+    - 6579
+    - 7521
+  label: 眾山篇第二十九
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1099b.44-h
+    span:
+    - body
+    - 7521
+    - 8702
+  label: 諸水篇第三十
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1100b.8-h
+    span:
+    - body
+    - 8702
+    - 12126
+  label: 林木篇第三十一
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1102c.33-h
+    span:
+    - body
+    - 12126
+    - 12872
+  label: 五果篇第三十二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1103b.17-h
+    span:
+    - body
+    - 12872
+    - 13861
+  label: 百華篇第三十三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1104a.59-h
+    span:
+    - body
+    - 13861
+    - 15071
+  label: 眾香篇三十四
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1105a.58-h
+    span:
+    - body
+    - 15071
+    - 16667
+  label: 七寶篇第三十五
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1106b.26-h
+    span:
+    - body
+    - 16667
+    - 18650
+  label: 數量篇第三十六
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1107c.47-h
+    span:
+    - body
+    - 18650
+    - 20809
+  label: 什物篇第三十七
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0019_T_003-1109b.12-h
+    span:
+    - body
+    - 20809
+    - 21863
+  label: 顯色篇第三十八
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_003-1109b.12-h
+    span:
+    - body
+    - 0
+    - 18
+  label: 顯色篇第三十八
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 18
+    - 26
+  label: 總明三藏第三十九
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 26
+    - 33
+  label: 十二分教第四十
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 33
+    - 41
+  label: 律分五部第四十一
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 41
+    - 49
+  label: 論開八聚第四十二
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 49
+    - 57
+  label: 示三學法第四十三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 57
+    - 65
+  label: 辨六度法第四十四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 65
+    - 73
+  label: 釋十二支第四十五
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 73
+    - 81
+  label: 明四諦法第四十六
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 81
+    - 89
+  label: 止觀三義第四十七
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 89
+    - 97
+  label: 眾善行法第四十八
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1110a.14-h
+    span:
+    - body
+    - 97
+    - 1718
+  label: 總明三藏篇第三十九
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1111b.21-h
+    span:
+    - body
+    - 1718
+    - 4300
+  label: 十二分教篇第四十
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1113a.67-h
+    span:
+    - body
+    - 4300
+    - 4984
+  label: 律分五部篇第四十一
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1113c.23-h
+    span:
+    - body
+    - 4984
+    - 5561
+  label: 論開八聚篇第四十二
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1114a.44-h
+    span:
+    - body
+    - 5561
+    - 7683
+  label: 示三學法篇第四十三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1115b.80-h
+    span:
+    - body
+    - 7683
+    - 9881
+  label: 辨六度法篇第四十四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1117a.51-h
+    span:
+    - body
+    - 9881
+    - 10357
+  label: 釋十二支篇第四十五
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1117b.63-h
+    span:
+    - body
+    - 10357
+    - 11589
+  label: 明四諦法篇第四十六
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1118b.20-h
+    span:
+    - body
+    - 11589
+    - 12921
+  label: 止觀三義篇第四十七
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0019_T_004-1119a.81-h
+    span:
+    - body
+    - 12921
+    - 25182
+  label: 眾善行法篇第四十八
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_004-1119a.81-h
+    span:
+    - body
+    - 0
+    - 18
+  label: 眾善行法篇第四十八
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 18
+    - 27
+  label: 三德祕藏篇第四十九
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 27
+    - 35
+  label: 法寶眾名篇第五十
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 35
+    - 44
+  label: 四十二字篇第五十一
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 44
+    - 53
+  label: 名句文法篇第五十二
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 53
+    - 62
+  label: 增數譬喻篇第五十三
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 62
+    - 71
+  label: 半滿書籍篇第五十四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_005-1127c.10-h
+    span:
+    - body
+    - 71
+    - 2432
+  label: 三德祕藏篇第四十九
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_005-1129b.42-h
+    span:
+    - body
+    - 2432
+    - 6855
+  label: 法寶眾名篇第五十
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_005-1132b.55-h
+    span:
+    - body
+    - 6855
+    - 12922
+  label: 四十二字篇第五十一
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_005-1136c.11-h
+    span:
+    - body
+    - 12922
+    - 15731
+  label: 名句文法篇第五十二
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_005-1139a.0-h
+    span:
+    - body
+    - 15731
+    - 15735
+  label: 初釋通號
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_005-1139a.1-h
+    span:
+    - body
+    - 15735
+    - 17912
+  label: 次辯別名
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_005-1139a.3-h
+    span:
+    - body
+    - 17912
+    - 24039
+  label: 增數譬喻篇第五十三
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_005-1144a.77-h
+    span:
+    - body
+    - 24039
+    - 27852
+  label: 半滿書籍篇第五十四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 27852
+    - 27861
+  label: 唐梵字體篇第五十五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 27861
+    - 27870
+  label: 煩惱惑業篇第五十六
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 27870
+    - 27879
+  label: 心意識法篇第五十七
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 27879
+    - 27888
+  label: 陰界入法篇第五十八
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0019_T_005-1146c.60-h
+    span:
+    - body
+    - 27888
+    - 27913
+  label: 唐梵字體篇第五十五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0019_T_005-1146c.60-h
+    span:
+    - body
+    - 0
+    - 3327
+  label: 唐梵字體篇第五十五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0019_T_006-1149a.70-h
+    span:
+    - body
+    - 3327
+    - 7316
+  label: 煩惱惑業篇第五十六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0019_T_006-1151c.10-h
+    span:
+    - body
+    - 7316
+    - 21215
+  label: 心意識法篇第五十七
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0019_T_006-1159c.62-h
+    span:
+    - body
+    - 21215
+    - 30995
+  label: 陰入界法篇第五十八
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0019_T_006-1159c.62-h
+    span:
+    - body
+    - 0
+    - 18
+  label: 陰入界法篇第五十八
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 18
+    - 27
+  label: 寺塔壇幢篇第五十九
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 27
+    - 35
+  label: 犍椎道具篇第六十
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 35
+    - 44
+  label: 沙門服相篇第六十一
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 44
+    - 53
+  label: 齋法四食篇第六十二
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 53
+    - 62
+  label: 篇聚名報篇第六十三
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 62
+    - 71
+  label: 統論二諦篇第六十四
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 71
+    - 2442
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0019_T_007-1168b.59-h
+    span:
+    - body
+    - 2442
+    - 4966
+  label: 犍稚道具篇第六十
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0019_T_007-1170a.81-h
+    span:
+    - body
+    - 4966
+    - 8081
+  label: 沙門服相篇第六十一
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0019_T_007-1172b.48-h
+    span:
+    - body
+    - 8081
+    - 8915
+  label: 齋法四食篇第六十二
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0019_T_007-1172c.83-h
+    span:
+    - body
+    - 8915
+    - 9061
+  label: 翻譯名義集卷第七
+  type: section
+  level: 1
+hash: sha256:eefa2e41352d9acd8863c5056ef356a3bdb0a694c228b5676b326cb3e717d6ff
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
